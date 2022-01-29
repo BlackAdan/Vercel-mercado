@@ -1,0 +1,7 @@
+# Environment Variables
+.env
+.env.build
+.vercel
+
+.now
+node_modules
